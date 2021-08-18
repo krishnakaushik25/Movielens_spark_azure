@@ -12,10 +12,12 @@ Our dataset is from GroupLens Research, which is a research group in the Departm
 
 This dataset (ml-25m) describes 5-star rating and free-text tagging activity from MovieLens, a movie recommendation service. 
 
+
 ### Recommendations
 1. Recently Watched
 2. Highest genre rated by user
 3. Latest Trending
+
 
 ## Project Takeaways
 
