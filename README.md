@@ -11,3 +11,46 @@ Before the final recommendation is made, there is a complex data pipeline that b
 Our dataset is from GroupLens Research, which is a research group in the Department of Computer Science and Engineering at the University of Minnesota. They operate a movie recommender based on collaborative filtering called MovieLens. 
 
 This dataset (ml-25m) describes 5-star rating and free-text tagging activity from MovieLens, a movie recommendation service. 
+
+### Recommendations
+1. Recently Watched
+2. Highest genre rated by user
+3. Latest Trending
+
+## The Process Steps
+
+These are the steps i learnt while doing this mini-project.
+
+-> Understanding the problem statement & Microsoft Azure Platform
+
+-> Developing end to end data pipeline using Microsoft Azure and Databricks Spark
+
+-> Creating Resource Group
+
+-> Introduction to Storage Account
+
+-> Upload raw data to cloud
+
+-> Introduction to Azure Data Factory
+
+-> Create and run ADF pipelines
+
+-> Introduction to Azure Databricks
+
+-> Spinning up Databricks cluster
+
+-> Read data from storage account
+
+-> Writing Spark Sql on Databricks
+
+-> Data analysis using spark on Databricks
+
+-> Data cleansing using spark on Databricks
+
+-> Data Transformation using spark
+
+-> Movie Recommendation algorithm using Spark in Azure
+
+
+
+
