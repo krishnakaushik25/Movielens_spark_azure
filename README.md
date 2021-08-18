@@ -17,7 +17,7 @@ This dataset (ml-25m) describes 5-star rating and free-text tagging activity fro
 2. Highest genre rated by user
 3. Latest Trending
 
-## The Process Steps
+## Project Takeaways
 
 These are the steps i learnt while doing this mini-project.
 
