@@ -1,4 +1,4 @@
-# Movielens_spark_azure
+# Movielens dataset analysis for movie recommendations using Spark in Azure
 
 
 ## Description
@@ -10,4 +10,4 @@ Before the final recommendation is made, there is a complex data pipeline that b
 
 Our dataset is from GroupLens Research, which is a research group in the Department of Computer Science and Engineering at the University of Minnesota. They operate a movie recommender based on collaborative filtering called MovieLens. 
 
-This dataset (ml-l25m) describes 5-star rating and free-text tagging activity from MovieLens, a movie recommendation service. 
+This dataset (ml-25m) describes 5-star rating and free-text tagging activity from MovieLens, a movie recommendation service. 
